@@ -12,5 +12,5 @@ wheels/
 # Common resources
 assets/*.png
 assets/*.svg
-*.svg
-*.png
+!icons/*.svg
+!icons/*.png
