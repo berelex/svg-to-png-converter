@@ -50,6 +50,7 @@ Define your export profiles in a config.json file placed in the same directory:
       { "name": "icon48.png", "width": 48, "height": 48 },
       { "name": "icon96.png", "width": 96, "height": 96 },
       { "name": "icon128.png", "width": 128, "height": 128 },
+      { "name": "icon192.png", "width": 192, "height": 192 },
       { "name": "icon256.png", "width": 256, "height": 256 },
       { "name": "icon512.png", "width": 512, "height": 512 }
     ],
